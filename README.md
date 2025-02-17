@@ -19,11 +19,11 @@ LOGISTICS
 - Lecture Room: 2443 at E3
   
 - Schedule: 
-  Tuesday 10:30-11:45
-  Thursday, 10:30-11:45
-  Office hour with the lecturer: after each lecture or upon arrangement.
-  Office hour with the TAs: upon arrangement.
-  All lectures will take place on-site.
+ -- Tuesday 10:30-11:45
+ -- Thursday, 10:30-11:45
+ -- Office hour with the lecturer: after each lecture or upon arrangement.
+ -- Office hour with the TAs: upon arrangement.
+ -- All lectures will take place on-site.
     
 - Grading: Homeworks, Participation, Quiz 40%, Midterm exam 30%, Final exam 30%
  
