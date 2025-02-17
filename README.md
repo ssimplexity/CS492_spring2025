@@ -13,8 +13,8 @@ LOGISTICS
 - Lecturer: Eunjung KIM (eunjung.kim@kaist.ac.kr)
 
 - Teaching Assistans 
-Gunwoo Kim (gunwoo.kim@kaist.ac.kr)
-Seokbeom Kim (seokbeom@kaist.ac.kr) 
+-- Gunwoo Kim (gunwoo.kim@kaist.ac.kr)
+-- Seokbeom Kim (seokbeom@kaist.ac.kr) 
     
 - Lecture Room: 2443 at E3
   
