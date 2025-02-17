@@ -50,19 +50,19 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-Week 1 (25, 27 Feb): Regular language. FO and MSO logic. Proof of Büchi's Theorem.
-Week 2 (4, 6 Mar): Tree language and tree automata. Tree-decomposition and width.	 
-Week 3 (11, 13 Mar): Proof of Courcelle’s theorem 1 via Büchi's Theorem.
-Week 4 (18, 20 Mar): EF (Ehrenfeucht-Fraisse) games.
-Week 5 (25, 27 Mar): Proof of Courcelle's theorem 2 via game tree.
-Week 6 (1, 3 Apr): Locality and basic local sentences. 
-Week 7 (8, 10 Apr): Proof of Gaifman's Theorem.
-Week 8 (14-18 Apr): Mid-term exam.
-Week 9 (22, 24 Apr): First model-checking algorithm (Seese's Theorem)..
-Week 10 (29 Apr, 1 May): Measuring sparsity I
-Week 11 (8 May): Measuring sparsity II.
-Week 12 (13, 15 May): Structural measures I.
-Week 13 (20, 22 May): No lecture.
-Week 14 (27, 29 May): Structural measures II.
-Week 15 (3, 5 Jun): Model checking on bounded expansion.
-Week 16 (9 - 13 Jun): Final exam period.
+- Week 1 (25, 27 Feb): Regular language. FO and MSO logic. Proof of Büchi's Theorem.
+- Week 2 (4, 6 Mar): Tree language and tree automata. Tree-decomposition and width.	 
+- Week 3 (11, 13 Mar): Proof of Courcelle’s theorem 1 via Büchi's Theorem.
+- Week 4 (18, 20 Mar): EF (Ehrenfeucht-Fraisse) games.
+- Week 5 (25, 27 Mar): Proof of Courcelle's theorem 2 via game tree.
+- Week 6 (1, 3 Apr): Locality and basic local sentences. 
+- Week 7 (8, 10 Apr): Proof of Gaifman's Theorem.
+- Week 8 (14-18 Apr): Mid-term exam.
+- Week 9 (22, 24 Apr): First model-checking algorithm (Seese's Theorem)..
+- Week 10 (29 Apr, 1 May): Measuring sparsity I
+- Week 11 (8 May): Measuring sparsity II.
+- Week 12 (13, 15 May): Structural measures I.
+- Week 13 (20, 22 May): No lecture.
+- Week 14 (27, 29 May): Structural measures II.
+- Week 15 (3, 5 Jun): Model checking on bounded expansion.
+- Week 16 (9 - 13 Jun): Final exam period.
