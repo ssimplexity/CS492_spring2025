@@ -64,5 +64,5 @@ Course Plan (liable to be adjusted)
 - Week 12 (13, 15 May): Structural measures I.
 - Week 13 (20, 22 May): No lecture.
 - Week 14 (27, 29 May): Structural measures II.
-- Week 15 (3, 5 Jun): Model checking on bounded expansion.
+- Week 15 (3, 5 Jun): FO Model checking on graphs of bounded expansion.
 - Week 16 (9 - 13 Jun): Final exam period.
