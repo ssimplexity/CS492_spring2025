@@ -60,7 +60,7 @@ Course Plan (liable to be adjusted)
 - Week 8 (14-18 Apr): Mid-term exam.
 - Week 9 (22, 24 Apr): First model-checking algorithm (Seese's Theorem).
 - Week 10 (29 Apr, 1 May): Measuring sparsity I
-- Week 11 (8 May): Measuring sparsity II.
+- Week 11 (8 May): Measuring sparsity II. (6 May is a public holiday.)
 - Week 12 (13, 15 May): Structural measures I.
 - Week 13 (20, 22 May): No lecture.
 - Week 14 (27, 29 May): Structural measures II.
