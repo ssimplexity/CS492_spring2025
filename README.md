@@ -50,8 +50,9 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-- Week 1 (25, 27 Feb): FO and MSO logic. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01.Intro-MSO-DFA.pdf), Section 2 in Libkin.
-- Week 2 (4, 6 Mar): Büchi's Theorem. Tree-decomposition and width. Tree language and tree automata.  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/02-03.BuchiTheoremStrings.pdf), Section 7.2 and 7.4 in Libkin.	 
+- Week 1 (25, 27 Feb): FO and MSO logic. Regular language. Büchi's Theorem. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01.Intro-MSO-DFA.pdf), Section 2 in Libkin.
+  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/02-03.BuchiTheoremStrings.pdf), Section 7.2 and 7.4 in Libkin.
+- Week 2 (4, 6 Mar): Tree-decomposition and width. Tree language and tree automata.  	 
 - Week 3 (11, 13 Mar): Proof of Courcelle’s theorem 1 via Büchi's Theorem. EF (Ehrenfeucht-Fraisse) games.
 - Week 4 (18, 20 Mar): EF (Ehrenfeucht-Fraisse) games continues.
 - Week 5 (25, 27 Mar): EF (Ehrenfeucht-Fraisse) games continues. Proof of Courcelle's theorem 2 via game tree.
