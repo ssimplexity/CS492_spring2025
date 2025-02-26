@@ -50,8 +50,8 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-- Week 1 (25, 27 Feb): Regular language. FO and MSO logic. Proof of Büchi's Theorem.
-- Week 2 (4, 6 Mar): Tree language and tree automata. Tree-decomposition and width.	 
+- Week 1 (25, 27 Feb): FO and MSO logic. Regular language. Büchi's Theorem.
+- Week 2 (4, 6 Mar): Tree-decomposition and width. Tree language and tree automata. 	 
 - Week 3 (11, 13 Mar): Proof of Courcelle’s theorem 1 via Büchi's Theorem. EF (Ehrenfeucht-Fraisse) games.
 - Week 4 (18, 20 Mar): EF (Ehrenfeucht-Fraisse) games continues.
 - Week 5 (25, 27 Mar): EF (Ehrenfeucht-Fraisse) games continues. Proof of Courcelle's theorem 2 via game tree.
