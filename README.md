@@ -46,6 +46,7 @@ Course Materials
 - Leonid Libkin, Elements of Finite Model Theory. Texts in Theoretical ComputerScience. An EATCS Series, Springer 2004, ISBN 3-540-21202-7, pp. 1-318 (ebook available in KAIST library)
 - Jaroslav Nesetril, Patrice Ossona de Mendez, Sparsity - Graphs, Structures, and Algorithms. Algorithms and combinatorics 28, Springer 2012, ISBN 978-3-642-27874-7, pp. I-XXIII, 1-457 (ebook available in KAIST library)
 - Marcin Pilipczuk, Michał Pilipczuk, Lecture notes on Sparsity in winter 19/20, https://www.mimuw.edu.pl/~mp248287/sparsity2/
+- Reinhard Diestel, Graph Theory, 6th edition, Graduate texts in mathematics 173, Springer 2012, ISBN 978-3-642-14278-9, pp. I-XVIII, 1-436 (or any of the previous edition works)
 
  
 Course Plan (liable to be adjusted)
@@ -54,7 +55,8 @@ Course Plan (liable to be adjusted)
   FO and MSO logic. Relational structure. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01.Intro-MSO-DFA.pdf). Section 2 in Libkin. 
 - Week 2 (4, 6 Mar): Büchi's Theorem.
   [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/02-03.BuchiTheoremStrings.pdf). Section 7.2 and 7.4 in Libkin.	 
-- Week 3 (11, 13 Mar): Tree-decomposition and width. Tree language and tree automata. Proof of Courcelle’s theorem via Büchi's Theorem. 
+- Week 3 (11, 13 Mar): Tree-decomposition. Tree language and tree automata. Proof of Courcelle’s theorem via Büchi's Theorem. \
+  Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: chapter 7.6 from Libkin. 
 - Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. EF (Ehrenfeucht-Fraisse) game.
 - Week 5 (25, 27 Mar): EF game continues. (Proof of Courcelle's theorem via game tree, if time permits.)
 - Week 6 (1, 3 Apr): Locality and basic local sentences. 
