@@ -4,7 +4,7 @@ Graph Classes, Algorithms and Logic (KAIST CS492), Spring 2025
 
 <span style="color:red">NEWS</span>
 ---------------------
-
+- Exams are scheduled as: Midterm on April 19 between 13h-18h and final exam on 7 June between 13h-18h. Both exams will take place in the same lecture room 2443 E3. You can bring snacks and drinks (which do not incur too much noise). Bring hardcopy versions of textbooks or papersheets of your choice - no internet or electronic devices will be allowed during the lecture. 
 
 
 
