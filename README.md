@@ -55,7 +55,7 @@ Course Plan (liable to be adjusted)
 - Week 2 (4, 6 Mar): Büchi's Theorem.
   [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/02-03.BuchiTheoremStrings.pdf). Section 7.2 and 7.4 in Libkin.	 
 - Week 3 (11, 13 Mar): Tree-decomposition. Tree language and tree automata. Proof of Courcelle’s theorem via Büchi's Theorem. \
-  Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: chapter 7.6 from Libkin. 
+  Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: chapter 7.6 from Libkin. [Lecture note: tree-decomposition & tree language](https://github.com/ssimplexity/CS492_spring2025/blob/main/05.Tree-decomposition%26TreeAutomata.pdf).
 - Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. EF (Ehrenfeucht-Fraisse) game.
 - Week 5 (25, 27 Mar): EF game continues. (Proof of Courcelle's theorem via game tree, if time permits.)
 - Week 6 (1, 3 Apr): Locality and basic local sentences. 
