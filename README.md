@@ -51,12 +51,12 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-- Week 1 (25, 27 Feb): FO and MSO logic. Relational structure. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01.Intro-MSO-DFA.pdf). Section 2 in Libkin. 
+- Week 1 (25, 27 Feb): FO and MSO logic. Relational structure. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01-02.Intro-MSO-DFA.pdf). Section 2 in Libkin. 
 - Week 2 (4, 6 Mar): Büchi's Theorem.
-  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/02-03.BuchiTheoremStrings.pdf). Section 7.2 and 7.4 in Libkin.	 
+  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/03-04.BuchiTheoremStrings.pdf). Section 7.2 and 7.4 in Libkin.	 
 - Week 3 (11, 13 Mar): Tree-decomposition. Tree language and tree automata. Proof of Courcelle’s theorem via Büchi's Theorem. \
   Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: chapter 7.6 from Libkin. [Lecture note: tree-decomposition & tree language](https://github.com/ssimplexity/CS492_spring2025/blob/main/05.Tree-decomposition%26TreeAutomata.pdf).
-- Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. EF (Ehrenfeucht-Fraisse) game.
+- Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. [Lecture note: Courcelle's Theorem](https://github.com/ssimplexity/CS492_spring2025/blob/main/06-07.Courcelle.pdf). EF (Ehrenfeucht-Fraisse) game. 
 - Week 5 (25, 27 Mar): EF game continues. (Proof of Courcelle's theorem via game tree, if time permits.)
 - Week 6 (1, 3 Apr): Locality and basic local sentences. 
 - Week 7 (8, 10 Apr): Proof of Gaifman's Locality Theorem.
