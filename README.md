@@ -43,10 +43,12 @@ Course Description
 
 Course Materials
 -------------------
-- Leonid Libkin, Elements of Finite Model Theory. Texts in Theoretical ComputerScience. An EATCS Series, Springer 2004, ISBN 3-540-21202-7, pp. 1-318 (ebook available in KAIST library)
-- Jaroslav Nesetril, Patrice Ossona de Mendez, Sparsity - Graphs, Structures, and Algorithms. Algorithms and combinatorics 28, Springer 2012, ISBN 978-3-642-27874-7, pp. I-XXIII, 1-457 (ebook available in KAIST library)
-- Marcin Pilipczuk, Michał Pilipczuk, Lecture notes on Sparsity in winter 19/20, https://www.mimuw.edu.pl/~mp248287/sparsity2/
-- Reinhard Diestel, Graph Theory, 6th edition, Graduate texts in mathematics 173, Springer 2012, ISBN 978-3-642-14278-9, pp. I-XVIII, 1-436 (or any of the previous edition works)
+- Main text
+  - Leonid Libkin, Elements of Finite Model Theory. Texts in Theoretical ComputerScience. An EATCS Series, Springer 2004, ISBN 3-540-21202-7, pp. 1-318 (ebook available in KAIST library)
+  - Jaroslav Nesetril, Patrice Ossona de Mendez, Sparsity - Graphs, Structures, and Algorithms. Algorithms and combinatorics 28, Springer 2012, ISBN 978-3-642-27874-7, pp. I-XXIII, 1-457 (ebook available in KAIST library)
+  - Marcin Pilipczuk, Michał Pilipczuk, Lecture notes on Sparsity in winter 19/20, https://www.mimuw.edu.pl/~mp248287/sparsity2/
+- Supplementary
+  - Reinhard Diestel, Graph Theory, 6th edition, Graduate texts in mathematics 173, Springer 2012, ISBN 978-3-642-14278-9, pp. I-XVIII, 1-436 (or any of the previous edition works)
 
  
 Course Plan (liable to be adjusted)
