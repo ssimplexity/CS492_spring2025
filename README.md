@@ -49,25 +49,26 @@ Course Materials
   - Marcin Pilipczuk, Michał Pilipczuk, Lecture notes on Sparsity in winter 19/20, https://www.mimuw.edu.pl/~mp248287/sparsity2/
 - Supplementary
   - Reinhard Diestel, Graph Theory, 6th edition, Graduate texts in mathematics 173, Springer 2012, ISBN 978-3-642-14278-9, pp. I-XVIII, 1-436 (or any of the previous edition works)
+  - Heinz-Dieter Ebbinghaus, Jörg Flum, Finite Model Theory, 2nd Edition, Springer Monographs in Mathematics, Springer Berlin Heidelberg New York, ISBN 978-3-540-28787-2, pp. I-XI, 1-360 (ebook available in KAIST library)
 
  
 Course Plan (liable to be adjusted)
 ------------
-- Week 1 (25, 27 Feb): FO and MSO logic. Relational structure. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01-02.Intro-MSO-DFA.pdf). Section 2 in Libkin. 
+- Week 1 (25, 27 Feb): FO and MSO logic. Relational structure. Regular language. [Lecture note: basics](https://github.com/ssimplexity/CS492_spring2025/blob/main/01-02.Intro-MSO-DFA.pdf). Chapter 2 in Libkin. 
 - Week 2 (4, 6 Mar): Büchi's Theorem.
-  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/03-04.BuchiTheoremStrings.pdf). Section 7.2 and 7.4 in Libkin.	 
+  [Lecture note: Büchi](https://github.com/ssimplexity/CS492_spring2025/blob/main/03-04.BuchiTheoremStrings.pdf). Chapter 7.2 and 7.4 in Libkin.	 
 - Week 3 (11, 13 Mar): Tree-decomposition. Tree language and tree automata. Proof of Courcelle’s theorem via Büchi's Theorem. \
-  Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: chapter 7.6 from Libkin. [Lecture note: tree-decomposition & tree language](https://github.com/ssimplexity/CS492_spring2025/blob/main/05.Tree-decomposition%26TreeAutomata.pdf).
+  Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: Chapter 7.6 from Libkin. [Lecture note: tree-decomposition & tree language](https://github.com/ssimplexity/CS492_spring2025/blob/main/05.Tree-decomposition%26TreeAutomata.pdf).
 - Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. [Lecture note: Courcelle's Theorem](https://github.com/ssimplexity/CS492_spring2025/blob/main/06-07.Courcelle.pdf). EF (Ehrenfeucht-Fraisse) game. 
-- Week 5 (25, 27 Mar): EF game continues. (Proof of Courcelle's theorem via game tree, if time permits.)
+- Week 5 (25, 27 Mar): EF game continues. (Proof of Courcelle's theorem via game tree, if time permits.) Chapter 2 of Ebbinghaus and Flum.
 - Week 6 (1, 3 Apr): Locality and basic local sentences. 
-- Week 7 (8, 10 Apr): Proof of Gaifman's Locality Theorem.
-- Week 8 (14-18 Apr): Mid-term exam.
-- Week 9 (22, 24 Apr): First model-checking algorithm (Seese's Theorem).
-- Week 10 (29 Apr, 1 May): Measuring sparsity I
-- Week 11 (8 May): Measuring sparsity II. (6 May is a public holiday.)
-- Week 12 (13, 15 May): Structural measures I.
+- Week 7 (8, 10 Apr): First model-checking algorithm (Seese's Theorem).
+- Week 8 (14-18 Apr): Mid-term exam takes place on April 19 between 13h-18h.
+- Week 9 (22, 24 Apr): Measuring sparsity I.
+- Week 10 (29 Apr, 1 May): Measuring sparsity II.
+- Week 11 (8 May): Structural measures I. (6 May is a public holiday.)
+- Week 12 (13, 15 May): Structural measures II.
 - Week 13 (20, 22 May): No lecture.
-- Week 14 (27, 29 May): Structural measures II.
-- Week 15 (3, 5 Jun): FO Model checking on graphs of bounded expansion.
-- Week 16 (9 - 13 Jun): Final exam period.
+- Week 14 (27, 29 May): FO Model checking on graphs of bounded expansion.
+- Week 15 (3, 5 Jun): Beyond sparsity.
+- Week 16 (9 - 13 Jun): Final exam happens on 7 June between 13h-18h.
