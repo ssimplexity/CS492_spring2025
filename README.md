@@ -61,8 +61,8 @@ Course Plan (liable to be adjusted)
   Tree-decomposition: chapter 12.3-12.4 from Diestel. Tree language and tree automata: Chapter 7.6 from Libkin. [Lecture note: tree-decomposition & tree language](https://github.com/ssimplexity/CS492_spring2025/blob/main/05.Tree-decomposition%26TreeAutomata.pdf).
 - Week 4 (18, 20 Mar): Proof of Courcelle’s theorem continues. [Lecture note: Courcelle's Theorem](https://github.com/ssimplexity/CS492_spring2025/blob/main/06-07.Courcelle.pdf). 
 - Week 5 (25, 27 Mar): EF game. Chapter 2 of Ebbinghaus and Flum. [Lecture note: EF game I](https://github.com/ssimplexity/CS492_spring2025/blob/main/08.EFgame-I.pdf).
-- Week 6 (1, 3 Apr): Locality and basic local sentences. 
-- Week 7 (8, 10 Apr): First model-checking algorithm (Seese's Theorem).
+- Week 6 (1, 3 Apr): EF game. Locality of FO. 
+- Week 7 (8, 10 Apr): Locality of FO. First FO model-checking algorithm.
 - Week 8 (14-18 Apr): Mid-term exam takes place on April 19 between 13h-18h.
 - Week 9 (22, 24 Apr): Measuring sparsity I.
 - Week 10 (29 Apr, 1 May): Measuring sparsity II.
