@@ -68,7 +68,7 @@ Course Plan (liable to be adjusted)
 - Week 10 (29 Apr, 1 May): Measuring sparsity II.
 - Week 11 (8 May): Structural measures I. (6 May is a public holiday.)
 - Week 12 (13, 15 May): Structural measures II.
-- Week 13 (20, 22 May): No lecture.
+- Week 13 (20, 22 May): No lecture. (business trip of the lecturer)
 - Week 14 (27, 29 May): FO Model checking on graphs of bounded expansion.
 - Week 15 (3, 5 Jun): Beyond sparsity.
 - Week 16 (9 - 13 Jun): Final exam happens on 7 June between 13h-18h.
