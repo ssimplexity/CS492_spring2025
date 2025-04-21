@@ -64,10 +64,10 @@ Course Plan (liable to be adjusted)
 - Week 6 (1, 3 Apr): EF game. Locality of FO. [Lecture note: locality of FO](https://github.com/ssimplexity/CS492_spring2025/blob/main/12-13.Locality.pdf)
 - Week 7 (8, 10 Apr): Locality of FO. First FO model-checking algorithm.
 - Week 8 (14-18 Apr): Mid-term exam takes place on April 19 between 13h-18h.
-- Week 9 (22, 24 Apr): Measuring sparsity I.
-- Week 10 (29 Apr, 1 May): Measuring sparsity II.
-- Week 11 (8 May): Structural measures I. (6 May is a public holiday.)
-- Week 12 (13, 15 May): Structural measures II.
+- Week 9 (22, 24 Apr): Measuring sparsity I-II.
+- Week 10 (29 Apr, 1 May): Measuring sparsity III. Structural measures I. 
+- Week 11 (8 May): Structural measures II. (6 May is a public holiday.)
+- Week 12 (13, 15 May): Structural measures III-IV.
 - Week 13 (20, 22 May): No lecture. (business trip of the lecturer)
 - Week 14 (27, 29 May): FO Model checking on graphs of bounded expansion.
 - Week 15 (5 Jun): Beyond sparsity. (3 June is a temporary public holiday for presidential election.)
