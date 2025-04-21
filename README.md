@@ -70,5 +70,5 @@ Course Plan (liable to be adjusted)
 - Week 12 (13, 15 May): Structural measures III-IV.
 - Week 13 (20, 22 May): No lecture. (business trip of the lecturer)
 - Week 14 (27, 29 May): FO Model checking on graphs of bounded expansion. [Lecture note "Model checking" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter3.pdf)
-- Week 15 (5 Jun): Beyond sparsity. (3 June is a temporary public holiday for presidential election.)
+- Week 15 (5 Jun): Beyond sparsity or continuing model checking. (3 June is a temporary public holiday for presidential election.)
 - Week 16 (9 - 13 Jun): Final exam happens on 7 June between 13h-18h.
