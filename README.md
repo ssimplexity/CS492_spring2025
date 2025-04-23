@@ -65,10 +65,11 @@ Course Plan (liable to be adjusted)
 - Week 7 (8, 10 Apr): Locality of FO. First FO model-checking algorithm.
 - Week 8 (14-18 Apr): Mid-term exam takes place on April 19 between 13h-18h.
 - Week 9 (22, 24 Apr): Measuring sparsity I-II. [Lecture note "Measuring sparsity" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter1.pdf)
-- Week 10 (29 Apr, 1 May): Measuring sparsity III. Structural measures I. [Lecture note "Structural measures" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter2.pdf)
-- Week 11 (8 May): Structural measures II. (6 May is a public holiday.)
-- Week 12 (13, 15 May): Structural measures III-IV.
+- Week 10 (29 Apr, 1 May): Measuring sparsity III-IV.
+- Week 11 (8 May): . Structural measures I. [Lecture note "Structural measures" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter2.pdf) 6 May is a public holiday.
+
+- Week 12 (13, 15 May): Structural measures II-III
 - Week 13 (20, 22 May): No lecture. (business trip of the lecturer)
-- Week 14 (27, 29 May): FO Model checking on graphs of bounded expansion. [Lecture note "Model checking" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter3.pdf)
-- Week 15 (5 Jun): Beyond sparsity or continuing model checking. (3 June is a temporary public holiday for presidential election.)
+- Week 14 (27, 29 May): Structural measures IV. FO Model checking on graphs of bounded expansion. [Lecture note "Model checking" by Marcin and Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/sparsity2/lectures/chapter3.pdf)
+- Week 15 (5 Jun): FO Model checking continues (3 June is a temporary public holiday for presidential election.)
 - Week 16 (9 - 13 Jun): Final exam happens on 7 June between 13h-18h.
